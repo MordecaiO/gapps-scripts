@@ -32,7 +32,7 @@ function getGeoLoc() {
 
   const params = {
     "parameters": {
-      "employer_id": "",
+      "" : "",
       "date_range": {
         "start": week_start,
         "end": week_end
