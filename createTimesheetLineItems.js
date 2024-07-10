@@ -1,5 +1,5 @@
 
-function UPSTimesheetFormat() {
+function timesheetFormat() {
 
   const ss = SpreadsheetApp.getActiveSpreadsheet();
   const unformatedSheet = ss.getSheetByName("Timesheet");
